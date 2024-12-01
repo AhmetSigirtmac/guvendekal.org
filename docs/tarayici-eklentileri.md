@@ -33,6 +33,71 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
     </div>
 </div>
 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/darkreader.png" alt="Dark Reader" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Dark Reader
+
+**Dark Reader** eklentisi, web tarayıcılarında kullanılan bir eklenti olup, internet üzerindeki sayfaları karanlık modda görüntülemenizi sağlar. Eklenti, kullanıcılara her web sitesini özelleştirilmiş şekilde karanlık moda çevirebilme imkânı verir ve renk kontrastını ayarlamak gibi çeşitli kişiselleştirme seçenekleri sunar.
+
+Dark reader eklentisi [açık kaynaktır](https://github.com/darkreader/darkreader).
+
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+<div class="web-store-box">
+        <i class="fab fa-safari"></i>
+        <div class="title">
+            <a href="https://apps.apple.com/us/app/dark-reader-for-safari/id1438243180" target="_blank" style="color: inherit; text-decoration: none;">Apple Mağazası</a>
+        </div>
+    </div>
+</div>
+<div class="web-store-box">
+        <i class="fab fa-edge"></i>
+        <div class="title">
+            <a href="https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc" target="_blank" style="color: inherit; text-decoration: none;">Edge Mağazası</a>
+        </div>
+    </div>
+</div>
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/deepl.png" alt="DeepL" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> DeepL
+
+**DeepL eklentisi**, güçlü bir çeviri eklentisi olarak, metinleri hızlı ve doğru bir şekilde çevirebilmenizi sağlar. DeepL, yapay zeka destekli çeviri teknolojisiyle, dil bilgisi ve bağlamı dikkate alarak doğal ve anlamlı çeviriler sunar.
+
+Hem web tarayıcılarında hem de masaüstü uygulamalarında kullanılabilen DeepL, metin çevirisini kolaylaştırırken, çeşitli diller arasında yüksek kaliteli çeviri imkânı tanır.
+
+DeepL eklentisi ne yazık ki [kapalı kaynak kodludur.](https://www.deepl.com/en/pro-license?tab=free)
+
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/deepl-translate/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/deepl-yapay-zeka-%C3%A7eviri-a/cofdbpoegempjloogbagkncekinflcnj" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+<div class="web-store-box">
+        <i class="fab fa-edge"></i>
+        <div class="title">
+            <a href="https://microsoftedge.microsoft.com/addons/detail/deepl-yapay-zeka-%C3%A7eviri-/fancfknaplihpclbhbpclnmmjcjanbaf" target="_blank" style="color: inherit; text-decoration: none;">Edge Mağazası</a>
+        </div>
+    </div>
+</div>
+
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
